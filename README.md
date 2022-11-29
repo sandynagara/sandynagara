@@ -2,7 +2,7 @@
 # Hi There! 👋
 
 ##  About Me
-🎓 I am Sandy Setyanagara, a Geodetic engineering student at Universitas Gadjah Mada focus on development web geospatial and QGIS plug-in 
+🎓 I am Sandy Setyanagara, a Fresh Graduate of Geodetic engineering at Universitas Gadjah Mada focus on development web geospatial and QGIS plug-in 
 
 💪 I love learning new things and combining them with my other skill to build a project. I am now looking to apply my skills and knowledge to a bigger project and industry.
 
