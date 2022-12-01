@@ -15,12 +15,12 @@
 - [Geographic Information System of Yogyakarta Village](https://github.com/sandynagara/frontend-doudou)
 - [Geographic Information System of Karangsari Village](https://github.com/sandynagara/sigdes-karangsari)
 - [Dashboard for submission field land of Maros City](https://github.com/sandynagara/FE-Plot-Maros)
-- [Ricefield Information System of KulonProgo districts](https://github.com/sandynagara/sawah_surjan) Development (20%)
+- [Ricefield Information System of KulonProgo districts](https://github.com/sandynagara/sawah_surjan)
 
 ### QGIS Plug-in 
 - [Palapa](https://github.com/sandynagara/Palapa)
 - [Geokkp-GIS](https://github.com/danylaksono/GeoKKP-GIS)
-- [Block Adjustment](https://github.com/sandynagara/Block_Adjustment) Development (80%)
+- [Block Adjustment](https://github.com/sandynagara/Block_Adjustment)
 
 ### Mobile App
 - [AssetKu (Mobile app to collect spatial data using GPS)](https://github.com/sandynagara/SpatialCollect)
