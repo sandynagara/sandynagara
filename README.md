@@ -9,7 +9,7 @@
 📫 I’m currently learning Next, React JS, Express JS, PyQt, and React Native
 
 ## This is my project
-### Website
+### Web GIS
 - [Geocoding Web App based on SNI 9037:2021](https://github.com/sandynagara/geocoding-indonesia)
 - [Spatial Information System of Yogyakarta City](https://github.com/sandynagara/sitaru-yogyakarta)
 - [Geographic Information System of Yogyakarta Village](https://github.com/sandynagara/frontend-doudou)
