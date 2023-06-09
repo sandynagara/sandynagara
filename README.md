@@ -27,7 +27,7 @@
 - [Cek Plot Maros (Mobile app for submission field land of Maros City)](https://github.com/sandynagara/Mobile-Plot-Maros)
 
 ## Here is my tech stack
-<img src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg" alt="drawing" width="30" title="Tailwind"/> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="drawing" width="30" title="Tailwind"/> &nbsp;
 ![npm](https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg "Node Package Manager") &nbsp;
 ![js](https://user-images.githubusercontent.com/79355239/151290689-1e8de89e-fa0e-4198-ac3c-481f4813895a.svg "Javascript") &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="drawing" width="30" title="Python"/> &nbsp;
