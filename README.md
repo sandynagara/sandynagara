@@ -21,6 +21,7 @@
 - [Palapa](https://github.com/sandynagara/Palapa)
 - [Geokkp-GIS](https://github.com/danylaksono/GeoKKP-GIS)
 - [Block Adjustment](https://github.com/sandynagara/Block_Adjustment)
+- [Tata Ruang Semarang]()
 
 ### Mobile App
 - [AssetKu (Mobile app to collect spatial data using GPS)](https://github.com/sandynagara/SpatialCollect)
