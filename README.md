@@ -6,7 +6,7 @@
 
 💪 I love learning new things and combining them with my other skill to build a project. I am now looking to apply my skills and knowledge to a bigger project and industry.
 
-📫 I’m currently learning Next, React JS, Express JS, PyQt, and React Native
+📫 I’m currently learning about maplibre, route machine and many more
 
 ## This is my project
 ### Web GIS
