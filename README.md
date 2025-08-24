@@ -8,25 +8,6 @@
 
 📫 I’m currently learning about maplibre, route machine and many more
 
-## This is my project
-### Web GIS
-- [Geocoding Web App based on SNI 9037:2021](https://github.com/sandynagara/geocoding-indonesia)
-- [Spatial Information System of Yogyakarta City](https://github.com/sandynagara/sitaru-yogyakarta)
-- [Geographic Information System of Yogyakarta Village](https://github.com/sandynagara/frontend-doudou)
-- [Geographic Information System of Karangsari Village](https://github.com/sandynagara/sigdes-karangsari)
-- [Dashboard for submission field land of Maros City](https://github.com/sandynagara/FE-Plot-Maros)
-- [Ricefield Information System of KulonProgo districts](https://github.com/sandynagara/sawah_surjan)
-
-### QGIS Plug-in 
-- [Palapa](https://github.com/sandynagara/Palapa)
-- [Geokkp-GIS](https://github.com/danylaksono/GeoKKP-GIS)
-- [Block Adjustment](https://github.com/sandynagara/Block_Adjustment)
-- [Tata Ruang Semarang]()
-
-### Mobile App
-- [AssetKu (Mobile app to collect spatial data using GPS)](https://github.com/sandynagara/SpatialCollect)
-- [Cek Plot Maros (Mobile app for submission field land of Maros City)](https://github.com/sandynagara/Mobile-Plot-Maros)
-
 ## Here is my tech stack
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="drawing" width="30" title="Tailwind"/> &nbsp;
 ![npm](https://user-images.githubusercontent.com/79355239/151290690-197d5ed7-a766-4664-a138-062e6ecd56d1.svg "Node Package Manager") &nbsp;
